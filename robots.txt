@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://nsiblem.github.io/sitemap.html.gz
+Sitemap: https://nsiblem.github.io/app/sitemap.html.gz
+Sitemap: https://nsiblem.github.io/assets/sitemap.html.gz
+Sitemap: https://nsiblem.github.io/css/sitemap.html.gz
+Sitemap: https://nsiblem.github.io/data/sitemap.html.gz
+Sitemap: https://nsiblem.github.io/includes/sitemap.html.gz
+Sitemap: https://nsiblem.github.io/item/sitemap.html.gz
+Sitemap: https://nsiblem.github.io/src/sitemap.html.gz
